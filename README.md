@@ -1,3 +1,5 @@
+<img width="361" alt="mobile" src="https://github.com/Rajdeep777/Food-Recipe-App/assets/74129008/23b6741e-7e6c-4345-8c24-dcf1802dac08">
+
 # Food Recipe Application
 
 This is an Food Recipe Application which is created using ReactJS with Axios.
@@ -7,13 +9,13 @@ This is a dynamic and interactive Application by using Axios to make request to 
 ## PREVIEW
 
 ###### LAPTOP SCREEN VIEW
-![Laptop Size]()
+![Laptop Size](https://github.com/Rajdeep777/Food-Recipe-App/assets/74129008/5799ca63-49f3-42a9-8ed0-18dfcb2513f3)
 
 ###### TABLET SCREEN VIEW
-![Laptop Size]()
+![Tablet Size](https://github.com/Rajdeep777/Food-Recipe-App/assets/74129008/9f09ac5a-9292-46d3-a21f-d42bfbc065a4)
 
 ###### MOBILE SCREEN VIEW
-![Mobile View]()
+![Mobile View](https://github.com/Rajdeep777/Food-Recipe-App/assets/74129008/23b6741e-7e6c-4345-8c24-dcf1802dac08)
 
 
 # Getting Started with Create React App
