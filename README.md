@@ -1,5 +1,3 @@
-<img width="361" alt="mobile" src="https://github.com/Rajdeep777/Food-Recipe-App/assets/74129008/23b6741e-7e6c-4345-8c24-dcf1802dac08">
-
 # Food Recipe Application
 
 This is an Food Recipe Application which is created using ReactJS with Axios.
